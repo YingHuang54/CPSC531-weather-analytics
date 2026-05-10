@@ -1,6 +1,0 @@
-{
-    "backendAddress": "http://localhost:5000",
-    "mapAPI": "/api/map",
-    "graphAPI": "/api/graph",
-    "locationAPI": "/api/location"
-}
