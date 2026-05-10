@@ -3,10 +3,10 @@ Course project for:
 - School: California State University, Fullerton
 - Course: CPSC 531 Advanced Database System
 - Professor: Tseng-Ching James Shen
-- Date: May 10, 2026
+- Semester: Spring 2026
 
-### Overview
-Implements an OLAP-style web application for interactive visualization of the global weather. 
+
+Implements an OLAP-style web application for interactive visualization of the global weather data. 
 
 ### Objective 
 Gain hands-on practice in big data processing using Spark and managing data in HDFS.
@@ -52,7 +52,7 @@ python -m venv venv
 10.	Run the backend Flask App once from the backend folder and note down its URL address in console.
 ```python -m flask_app.app```
 
-## Frontend Setup
+## Frontend Setup Instruction
 1.	Install Node.js.
 2.	Run the command within the frontend folder to install all required packages:
 ```npm ci```  or ```npm install```
