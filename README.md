@@ -1,4 +1,4 @@
-# WeatherBig Data Analytics Application: OLAP on Weather Data
+# Big Data Analytics Application: OLAP on Weather Data
 Course project for:
 - School: California State University, Fullerton
 - Course: CPSC 531 Advanced Database System
